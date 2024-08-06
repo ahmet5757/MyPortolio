@@ -16,7 +16,7 @@ Kullanılan Freamework Sürümü
 
 Entitty Freamework 8.0
 
-##RESİMLER
+RESİMLER
 
 ![image](https://github.com/user-attachments/assets/7d5fab74-96b3-4ba5-88b9-3b596780f064)
 
